@@ -9,3 +9,6 @@ This is my **5 to 9** account.
 ## Social
 
 I run a programming parody / meme page account on X: [@ImreDraskovits](https://x.com/imredraskovits)
+
+
+> *This GitHub account has been wiped on 2 November 2024.*
