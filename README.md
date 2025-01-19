@@ -7,5 +7,5 @@ I build native mobile apps, primarily focused on Apple platforms.
 
 ## Social
 
-Connect on Linkedin: [linkedin.com/in/imre](https://linkedin.com/in/imre)    
+Connect on [linkedin.com/in/imre](https://linkedin.com/in/imre)    
 Visit [imre.app](https://imre.app/)   
