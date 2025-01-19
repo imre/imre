@@ -3,7 +3,7 @@
 
 I build native mobile apps, primarily focused on Apple platforms.  
 
-[![gpg-key-id](https://img.shields.io/badge/0x11EAFF97DFABC95D-blue?label=GPG-key)](https://github.com/notimre.gpg)
+[![gpg-key-id](https://img.shields.io/badge/0x11EAFF97DFABC95D-blue?label=GPG-key)](https://github.com/imre.gpg)
 
 ## Social
 
