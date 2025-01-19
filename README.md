@@ -3,7 +3,7 @@
 
 I build high-performing, user-friendly mobile apps for Apple platforms, often integrated with enterprise systems.
 
-## Social
+### Social
 
 Connect on [linkedin.com/in/imre](https://linkedin.com/in/imre)    
 Visit [imre.app](https://imre.app/)   
