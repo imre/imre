@@ -6,7 +6,14 @@
 
 I build high-performance, user-friendly mobile apps for Apple platforms, specialising in turning complex data collection into simple, measurable insights.
 
+## Software
+
+[![iOS](https://img.shields.io/badge/iOS-2e2c2c?logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)](https://developer.apple.com/swift/) 
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/) 
 
 ### Contact Me
 
 Visit [imre.app](https://imre.app/) to learn more.  
+
