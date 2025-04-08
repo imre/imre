@@ -25,9 +25,7 @@ I like working with clever software that's just plug and play. Here are some of 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/) 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-242526?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
-[![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## Work with Me
 
