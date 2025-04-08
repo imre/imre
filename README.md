@@ -26,6 +26,7 @@ I like working with clever software that's just plug and play. Here are some of 
 [![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/) 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-242526?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+[![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)](https://www.vim.org/)
 
 ## Work with Me
 
