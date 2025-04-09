@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/imre/)
 [![GitHub](https://img.shields.io/badge/GitHub-%40imre-239a3b.svg)](https://github.com/imre)
 [![gpg-key-id](https://img.shields.io/badge/0x83AE6894BF8C400A-blue?label=GPG-key)](https://github.com/imre.gpg)
+[![visits](https://komarev.com/ghpvc/?username=imre&style=flat&color=313131&label=Profile+Visits&abbreviated=true)](https://github.com/imre)
 
 I'm a software engineer living in the UK, and I spend most of my time building mobile apps and data collection tools. What really matters to me is designing software that feels good to use: simple, thoughtful, and made with care.  
 
