@@ -14,7 +14,7 @@ Some of the research projects I've worked on has been featured in the media:
 
 - ['AI tool to aid organ transplants nominated for NHS award'](https://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-68353365), 22 February 2024 (BBC News)
 - ['Three firms selected for Lough Neagh space project'](https://www.bbc.co.uk/news/articles/cz6lpeg4veeo), 9 December 2024 (BBC News) 
-- ['Burial site of thousands being studied'](https://www.bbc.co.uk/news/articles/c98en59r7qmo), 13 November 2024 (BBC News)
+- ['Work begins to determine size of Ouseburn burial ground'](https://www.bbc.co.uk/news/articles/c98en59r7qmo), 13 November 2024 (BBC News)
 - ['Northumberland ancient rock art protected by modern app'](https://www.bbc.co.uk/news/uk-england-tyne-42123939), 25 November 2017 (BBC News)
 
 ## Software
