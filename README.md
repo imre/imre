@@ -12,11 +12,11 @@ In my spare time I support business owners, especially in the fitness industry t
 ## In the News
 Research projects that run on my software have been featured in the media:
 
-- ['AI tool to aid organ transplants nominated for NHS award'](https://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-68353365), 22 February 2024 (BBC News)
-- ['Three firms selected for Lough Neagh space project'](https://www.bbc.co.uk/news/articles/cz6lpeg4veeo), 9 December 2024 (BBC News)
-- ['Appeal for relatives to unlock graveyard's secrets'](https://www.bbc.co.uk/news/articles/c62q3p5147po), 12 January 2025 (BBC News)
-- ['Work begins to determine size of Ouseburn burial ground'](https://www.bbc.co.uk/news/articles/c98en59r7qmo), 13 November 2024 (BBC News)
-- ['Northumberland ancient rock art protected by modern app'](https://www.bbc.co.uk/news/uk-england-tyne-42123939), 25 November 2017 (BBC News)
+- ['AI tool to aid organ transplants nominated for NHS award'](https://link.imre.app/bbc-68353365), 22 February 2024 (BBC News)
+- ['Three firms selected for Lough Neagh space project'](https://link.imre.app/bbc-cz6lpeg4veeo), 9 December 2024 (BBC News)
+- ['Appeal for relatives to unlock graveyard's secrets'](https://link.imre.app/bbc-c62q3p5147po), 12 January 2025 (BBC News)
+- ['Work begins to determine size of Ouseburn burial ground']( https://link.imre.app/bbc-c98en59r7qmo), 13 November 2024 (BBC News)
+- ['Northumberland ancient rock art protected by modern app'](https://link.imre.app/bbc-42123939), 25 November 2017 (BBC News)
 
 ## Software
 
@@ -31,4 +31,4 @@ Here are some of my favourites:
 
 ## Working with Me
 
-Visit [imre.app](https://imre.app/) to learn more or [send an email](mailto:imre@draskovits.dev).  
+Visit [imre.app](https://link.imre.app/home) to learn more or [send an email](mailto:imre@draskovits.dev).  
