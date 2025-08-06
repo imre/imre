@@ -33,4 +33,4 @@ Here are some of my favourites:
 
 ## Working with Me
 
-Visit [imre.app](https://link.imre.app/home) to learn more or [send an email](mailto:imre@draskovits.dev).  
+Visit [imre.app](https://link.imre.app/home) to learn more or [book a call](https://cal.com/imredraskovits).  
