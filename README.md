@@ -1,7 +1,7 @@
 # About Me
 
-[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/imre/)
-[![GitHub](https://img.shields.io/badge/GitHub-%40imre-239a3b.svg)](https://github.com/imre)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://link.imre.app/linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40imre-239a3b.svg)](https://link.imre.app/github)
 [![gpg-key-id](https://img.shields.io/badge/0x83AE6894BF8C400A-blue?label=GPG-key)](https://github.com/imre.gpg)
 [![visits](https://komarev.com/ghpvc/?username=imre&style=flat&color=313131&label=Profile+Visits&abbreviated=true)](https://github.com/imre)
 
@@ -12,7 +12,7 @@ Originally from Budapest, now based in the United Kingdom, I’ve spent the last
 ## In the News
 I’ve contributed software to several academic research projects, some of which have been featured in the media:
 
-- ['Mobilising climate action with moral appeals in a smartphone-based 8-week field experiment'](https://www.nature.com/articles/s44168-025-00282-x), 28 August 2025 (Nature)
+- ['Mobilising climate action with moral appeals in a smartphone-based 8-week field experiment'](https://link.imre.app/nature-s44168), 28 August 2025 (Nature)
 - ['AI tool to aid organ transplants nominated for NHS award'](https://link.imre.app/bbc-68353365), 22 February 2024 (BBC News)
 - ['Three firms selected for Lough Neagh space project'](https://link.imre.app/bbc-cz6lpeg4veeo), 9 December 2024 (BBC News)
 - ['Appeal for relatives to unlock graveyard's secrets'](https://link.imre.app/bbc-c62q3p5147po), 12 January 2025 (BBC News)
