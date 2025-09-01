@@ -21,4 +21,4 @@ I’ve contributed software to several academic research projects, some of which
 
 ## Working with Me
 
-Visit [imre.app](https://link.imre.app/home) to learn more or [book a call](https://cal.com/imredraskovits).  
+Visit [imre.app](https://link.imre.app/home) to learn more or [book a free discovery call](https://link.imre.app/call).  
