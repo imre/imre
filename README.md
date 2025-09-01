@@ -7,11 +7,12 @@
 
 I design, build, and deploy software that breaks convention and rejects the polished-but-pointless norms of modern tech.
 
-Originally from Budapest, now based in the United Kingdom, I’ve spent the last few years building systems for researchers ranging from archaeologists to liver and kidney transplant surgeons. My work combines disciplined engineering with a deep frustration for bad design, bloated platforms, and lifeless apps.  
+Originally from Budapest, now based in the United Kingdom, I’ve spent the last few years building systems for researchers ranging from archaeologists to liver and kidney transplant surgeons. My work combines disciplined engineering with a deep frustration for bad design, bloated platforms, and lifeless apps, driving me to create tools that are simple, elegant, and genuinely useful.
 
 ## In the News
 I’ve contributed software to several academic research projects, some of which have been featured in the media:
 
+- ['Mobilising climate action with moral appeals in a smartphone-based 8-week field experiment'](https://www.nature.com/articles/s44168-025-00282-x), 28 August 2025 (Nature)
 - ['AI tool to aid organ transplants nominated for NHS award'](https://link.imre.app/bbc-68353365), 22 February 2024 (BBC News)
 - ['Three firms selected for Lough Neagh space project'](https://link.imre.app/bbc-cz6lpeg4veeo), 9 December 2024 (BBC News)
 - ['Appeal for relatives to unlock graveyard's secrets'](https://link.imre.app/bbc-c62q3p5147po), 12 January 2025 (BBC News)
