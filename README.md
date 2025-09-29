@@ -5,9 +5,9 @@
 [![gpg-key-id](https://img.shields.io/badge/0x83AE6894BF8C400A-blue?label=GPG-key)](https://github.com/imre.gpg)
 [![visits](https://komarev.com/ghpvc/?username=imre&style=flat&color=313131&label=Profile+Visits&abbreviated=true)](https://github.com/imre)
 
-I design, build, and deploy software that breaks convention and rejects the polished-but-pointless norms of modern tech.
+I design, build, and deploy software that breaks convention and rejects the "polished but pointless" norms of modern tech.
 
-Originally from Budapest, now based in the United Kingdom, I’ve spent the last few years building systems for researchers ranging from archaeologists to liver and kidney transplant surgeons. My work combines disciplined engineering with a deep frustration for bad design, bloated platforms, and lifeless apps, driving me to create tools that are simple, elegant, and genuinely useful.
+Originally from Budapest, now based in the United Kingdom, I've spent the last few years building systems for researchers ranging from archaeologists to transplant surgeons. My work blends disciplined engineering with a refusal to accept the industry's defaults: bloated platforms, clumsy design, and apps that feel dead on arrival. Instead, I focus on creating tools that are minimal, elegant, yet genuinely essential to your work.
 
 ## In the News
 I’ve contributed software to several academic research projects, some of which have been featured in the media:
