@@ -10,7 +10,7 @@ I’ve contributed software to several academic research projects, some of which
 
 ## Working with Me
 
-Visit [imre.app](https://link.imre.app/home) to learn more or [book a free discovery call](https://link.imre.app/call).  
+Visit [imre.app](https://link.imre.app/home) to learn more.  
 
 
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://link.imre.app/linkedin/)
