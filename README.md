@@ -12,8 +12,8 @@ I’ve contributed software to several academic research projects, some of which
 
 Visit [imre.app](https://link.imre.app/home) to learn more.  
 
-
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://link.imre.app/linkedin/)
 [![GitHub](https://img.shields.io/badge/GitHub-%40imre-239a3b.svg)](https://link.imre.app/github)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--3272--4765-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3272-4765)
 [![gpg-key-id](https://img.shields.io/badge/0x9F8C63EFD2BA4513-blue?label=GPG-key)](https://github.com/imre.gpg)
 [![visits](https://komarev.com/ghpvc/?username=imre&style=flat&color=313131&label=Profile+Visits&abbreviated=true)](https://github.com/imre)
