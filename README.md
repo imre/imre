@@ -1,6 +1,8 @@
 ## In the News
 I’ve contributed software to several academic research projects, some of which have been featured in the media:
 
+
+- ['A Practical Approach to Building AI Capability in Academic Research Software Engineering'](https://doi.org/10.1109/eScience70237.2026.00166), 13 November 2026 (IEEE Xplore)
 - ['Mobilising climate action with moral appeals in a smartphone-based 8-week field experiment'](https://link.imre.app/nature-s44168), 28 August 2025 (Nature)
 - ['AI tool to aid organ transplants nominated for NHS award'](https://link.imre.app/bbc-68353365), 22 February 2024 (BBC News)
 - ['Three firms selected for Lough Neagh space project'](https://link.imre.app/bbc-cz6lpeg4veeo), 9 December 2024 (BBC News)
